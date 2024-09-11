@@ -1,0 +1,25 @@
+{
+  "name": "hnverdo",
+  "version": "1.0.0",
+  "description": "Your To-Do Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "todo",
+    "goal",
+    "task"
+  ],
+  "author": "Harsh Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.4.0",
+    "discord-api-types": "^0.37.100",
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "nodejs": "^0.0.0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "daily": {
+    "1223321207743582211": [
+      {
+        "goal": "73bd0167e4346571a2d486e8532ef75a45c013e297691b373f38d5e7a711f75341c93784",
+        "completed": false,
+        "utcTime": 1726029372296
+      },
+      {
+        "goal": "73ba1b26ec292b60",
+        "completed": false,
+        "utcTime": 1726038575059,
+        "description": ""
+      },
+      {
+        "goal": "6ef51f75aa293625a08dc4e35536ba780ac05f",
+        "completed": true,
+        "utcTime": 1726038618418,
+        "description": ""
+      },
+      {
+        "goal": "76f80221f9602677ac978fad5935",
+        "completed": false,
+        "utcTime": 1726038667221,
+        "description": ""
+      }
+    ]
+  },
+  "weekly": {
+    "1223321207743582211": [
+      {
+        "goal": "73bd0167e42e2425a79b8de31022f55309c454ea",
+        "completed": false,
+        "utcTime": 1726046512514
+      }
+    ]
+  },
+  "monthly": {
+    "1223321207743582211": [
+      {
+        "goal": "73bd0167e4346571a2d496e45424ba5e45c35ef8",
+        "completed": false,
+        "utcTime": 1726047091240
+      },
+      {
+        "goal": "72f81a6ae5600d64bf878c",
+        "completed": false,
+        "utcTime": 1726047147979,
+        "description": ""
+      }
+    ]
+  },
+  "yearly": {}
+}
